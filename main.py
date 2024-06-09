@@ -147,8 +147,8 @@ paid_text = """
 • **How to Access this bot**
 
 Step 1: Click Below on Developer.
-Step 2: Go to Telegram Username
-Step 3: Send your Telegram ID From @missrose_bot
+Step 2: And contact with **Team Shaurya** to Access this bot
+Step 3: Then Send your Telegram ID 
 """
 
 
@@ -157,7 +157,7 @@ Step 3: Send your Telegram ID From @missrose_bot
 async def account_lstarn(bot: Client, m: Message):
     if not one(m.from_user.id):
         return await m.reply_photo(
-            photo="https://graph.org/file/f60051408d17fd505fa11.jpg",
+            photo="https://graph.org/file/18691961630e9a2a59897.jpg",
             caption=paid_text,
             reply_markup=keyboard,
         )
