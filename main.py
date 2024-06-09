@@ -147,7 +147,7 @@ paid_text = """
 • **How to Access this bot**
 
 Step 1: Click Below on Developer.
-Step 2: And contact with **Team Shaurya** to Access this bot
+Step 2: And contact with **Team Shaurya**
 Step 3: Then Send your Telegram ID 
 """
 
